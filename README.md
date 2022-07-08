@@ -1,5 +1,6 @@
 
-## Olá ! 👋 Eu sou a Ingrid Ramos !
+### Olá ! 👋 Eu sou a Ingrid Ramos !
+---
 
 
 Formada em Engenharia Ambiental e atualmente em transição de carreira para a área tech!💻
@@ -11,17 +12,19 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 - 🚀 Apaixonada por tecnologia, conhecer lugares novos e outras culturas
 - 🤔 Meus hobbies são: Praticar exercícios físicos, ler, assistir filmes e séries
 
-##
+###
+---
 <div>
   <a href="https://github.com/ingridrcs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridrcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ingridrcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridrcs&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div>
-<img align="right" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
+  <img align="right" width="450px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
 </div>
 
-## Linguagens e Ferramentas
+  
+### Linguagens e Ferramentas
+  ---
+  
 
 <div align="center"><br>
   <img align="center" alt="Ingrid-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -35,7 +38,8 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
                 
  </div>
 
-## Contato
+### Contato
+  ---
 
 <div align="center"> 
   <a href="https://instagram.com/ingridrcs" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
