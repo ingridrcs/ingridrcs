@@ -12,12 +12,11 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 - 🚀 Apaixonada por tecnologia, conhecer lugares novos e outras culturas
 - 🤔 Meus hobbies são: Praticar exercícios físicos, ler, assistir filmes e séries
 
-  <img align="right" width="400px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
-
 ###
 ---
 
 <div align="left">
+  <img align="right" width="400px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
   <a href="https://github.com/ingridrcs">
   <img stheight="180em" src="https://github-readme-stats.vercel.app/api?username=ingridrcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridrcs&layout=compact&langs_count=7&theme=dracula"/>
