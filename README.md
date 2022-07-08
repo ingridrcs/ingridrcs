@@ -1,5 +1,5 @@
 
-### Olá ! 👋 Eu sou a Ingrid Ramos !<img align="right" width="300px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=97248D&lines=Ol%C3%A1!+%F0%9F%91%8B+Eu+sou+a+Ingrid+Ramos!)](https://git.io/typing-svg)<img align="right" width="300px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
 ---
 
 Formada em Engenharia Ambiental e atualmente em transição de carreira para a área tech!💻
