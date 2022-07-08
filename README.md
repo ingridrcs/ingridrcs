@@ -17,12 +17,12 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 
 <div>
 <div>
-  <img align="right" width="350px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
+  <img align="right" width="300px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
   </div>
   <div>
   <a href="https://github.com/ingridrcs">
-  <img stheight="150em" src="https://github-readme-stats.vercel.app/api?username=ingridrcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridrcs&layout=compact&langs_count=7&theme=dracula"/>
+  <img stheight="180em" src="https://github-readme-stats.vercel.app/api?username=ingridrcs&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ingridrcs&layout=compact&langs_count=7&theme=dracula"/>
   </div>
 </div>
 
