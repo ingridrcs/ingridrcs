@@ -17,7 +17,7 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 
 <div>
 <div>
-  <img align="right" width="400px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
+  <img align="right" width="350px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
   </div>
   <div>
   <a href="https://github.com/ingridrcs">
