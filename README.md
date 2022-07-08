@@ -11,6 +11,7 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 - 💻 Aprendendo TypeScript
 - 🚀 Apaixonada por tecnologia, conhecer lugares novos e outras culturas
 - 🤔 Meus hobbies são: Praticar exercícios físicos, ler, assistir filmes e séries
+
   <img align="right" width="400px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
 
 ###
