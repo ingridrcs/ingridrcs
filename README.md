@@ -15,7 +15,7 @@ Formada em Engenharia Ambiental e atualmente em transição de carreira para a �
 ###
 ---
 
-<div>
+<div style="display:flex;">
 <div align="right">
   <img width="400px" alt="Ingrid-Octocat" src="octocat-ingridrcs.png">
   </div>
